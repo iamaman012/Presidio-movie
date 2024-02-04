@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "3 Idiots",
+    "director": "Rajkumar Hirani",
+    "releaseYear": 2009,
+    "language": "Hindi",
+    "rating": 8.4,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZgcPF9brcGSjgvCoTtLUcSHdPoKq1WfUW_2ABRPX5A&s"
+  },
+  {
+    "id": 2,
+    "name": "Dangal",
+    "director": "Nitesh Tiwari",
+    "releaseYear": 2016,
+    "language": "Hindi",
+    "rating": 8.4,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZt-kSZogZ8RuhNP7JNZCxXEquI1x7hg-Cwmrf01aeXg&s"
+  },
+  {
+    "id": 3,
+    "name": "PK",
+    "director": "Rajkumar Hirani",
+    "releaseYear": 2014,
+    "language": "Hindi",
+    "rating": 8.1,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvh_lJpL2OJ5_ErIrrSnWe9w_nfKlanmRFRTs8_um2xw&s"
+  },
+  {
+    "id": 4,
+    "name": "Lagaan",
+    "director": "Ashutosh Gowariker",
+    "releaseYear": 2001,
+    "language": "Hindi",
+    "rating": 8.1,
+    "imagePath": "https://www.tallengestore.com/cdn/shop/products/7381745860788A_1a62fb95-e1c7-4fe2-822a-30e9d0686037.jpg?v=1683929459"
+  },
+  {
+    "id": 5,
+    "name": "Queen",
+    "director": "Vikas Bahl",
+    "releaseYear": 2013,
+    "language": "Hindi",
+    "rating": 8.2,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM64XDvWBK6oT0EUXUP8EckobTp-9Y_pzn87VfWgWjRg&s"
+  },
+  {
+    "id": 6,
+    "name": "Andhadhun",
+    "director": "Sriram Raghavan",
+    "releaseYear": 2018,
+    "language": "Hindi",
+    "rating": 8.3,
+    "imagePath": "https://upload.wikimedia.org/wikipedia/en/4/47/Andhadhun_poster.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Gully Boy",
+    "director": "Zoya Akhtar",
+    "releaseYear": 2019,
+    "language": "Hindi",
+    "rating": 8.1,
+    "imagePath": "https://bollywoodmovieposters.com/wp-content/uploads/2023/04/gully-boy-poster-hd-ranveer-singh-movie.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dil Chahta Hai",
+    "director": "Farhan Akhtar",
+    "releaseYear": 2001,
+    "language": "Hindi",
+    "rating": 8.1,
+    "imagePath": "https://upload.wikimedia.org/wikipedia/en/d/db/Dil_Chahta_Hai.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Koi Mil Gaya",
+    "director": "Rakesh Roshan",
+    "releaseYear": 2003,
+    "language": "Hindi",
+    "rating": 7.1,
+    "imagePath": "https://i.pinimg.com/564x/fc/d7/9e/fcd79ef14604af9481189cc40c91c9d2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Sholay",
+    "director": "Ramesh Sippy",
+    "releaseYear": 1975,
+    "language": "Hindi",
+    "rating": 8.2,
+    "imagePath": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/8/m/y/small-spos11190-poster-sholay-movie-amitabh-dharmendra-poster-original-imaghyv3jcd2vwfy.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 11,
+    "name": "City of God",
+    "director": "Fernando Meirelles, Kátia Lund",
+    "releaseYear": 2002,
+    "language": "Portuguese",
+    "rating": 8.6,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwH8IOwwPEKKnM_gkHhRDe9_tXZueY2-8PUf0SBNFpg&s"
+  },
+  {
+    "id": 12,
+    "name": "A Separation",
+    "director": "Asghar Farhadi",
+    "releaseYear": 2011,
+    "language": "Persian",
+    "rating": 8.3,
+    "imagePath": "https://m.media-amazon.com/images/M/MV5BMDVlMzA5MTgtNGNjZi00NWRjLThlZDYtMDIxNTNlOTg3OGJkXkEyXkFqcGdeQXVyMTMxODk2OTU@.V1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "In the Mood for Love",
+    "director": "Wong Kar-wai",
+    "releaseYear": 2000,
+    "language": "Cantonese",
+    "rating": 8.1,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqXn35BTH8Xkh-QQ4xfohKbfPOwLMF9JPJClEo84M3Q&s"
+  },
+  {
+    "id": 14,
+    "name": "The Lives of Others",
+    "director": "Florian Henckel von Donnersmarck",
+    "releaseYear": 2006,
+    "language": "German",
+    "rating": 8.4,
+    "imagePath": "https://m.media-amazon.com/images/M/MV5BYzhjMzdjNGYtY2M3Mi00MjMxLWI2NDMtYzI1MmI1N2M3MjgzXkEyXkFqcGdeQXVyODc0OTEyNDU@.V1.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Incendies",
+    "director": "Denis Villeneuve",
+    "releaseYear": 2010,
+    "language": "French",
+    "rating": 8.3,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwGh0h_ANKEc84emLAnLkoAdMxF-VoZEoIkr3kTRTDw&s"
+  },
+  {
+    "id": 16,
+    "name": "Let the Right One In",
+    "director": "Tomas Alfredson",
+    "releaseYear": 2008,
+    "language": "Swedish",
+    "rating": 7.9,
+    "imagePath": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Let_the_Right_One_In_%28Swedish%29.jpg/220px-Let_the_Right_One_In_%28Swedish%29.jpg"
+  },
+  {
+    "id": 17,
+    "name": "The Secret in Their Eyes",
+    "director": "Juan José Campanella",
+    "releaseYear": 2009,
+    "language": "Spanish",
+    "rating": 8.2,
+    "imagePath": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Secret_in_Their_Eyes_poster.jpg/220px-Secret_in_Their_Eyes_poster.jpg"
+  },
+  {
+    "id": 18,
+    "name": "The White Ribbon",
+    "director": "Michael Haneke",
+    "releaseYear": 2009,
+    "language": "German",
+    "rating": 7.8,
+    "imagePath": "https://i.pinimg.com/474x/8d/3f/a9/8d3fa9f559a889cca59cc02ed90e06f5.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Blue Is the Warmest Color",
+    "director": "Abdellatif Kechiche",
+    "releaseYear": 2013,
+    "language": "French",
+    "rating": 7.8,
+    "imagePath": "https://i.pinimg.com/736x/7b/4d/ca/7b4dca31eb04e7a650a0df4911fdbc06.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Departures",
+    "director": "Yojiro Takita",
+    "releaseYear": 2008,
+    "language": "Japanese",
+    "rating": 8.1,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjXRMPIwegTugN9pBqaZh3j-eXRRzvnfx5toTF4JfTBQ&s"
+  },
+  {
+    "id": 21,
+    "name": "The Great Beauty",
+    "director": "Paolo Sorrentino",
+    "releaseYear": 2013,
+    "language": "Italian",
+    "rating": 7.8,
+    "imagePath": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b9f35713548315.5627515d3466a.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Birdman",
+    "director": "Alejandro G. Iñárritu",
+    "releaseYear": 2014,
+    "language": "English",
+    "rating": 7.7,
+    "imagePath": "https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@.V1.jpg"
+  },
+  {
+    "id": 23,
+    "name": "The Shape of Water",
+    "director": "Guillermo del Toro",
+    "releaseYear": 2017,
+    "language": "English",
+    "rating": 7.3,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStshf52QDlxXv5cCpKbaFVqXLjUxHtrGwpNw3su7ceGQ&s"
+  },
+  {
+    "id": 24,
+    "name": "A Fantastic Woman",
+    "director": "Sebastián Lelio",
+    "releaseYear": 2017,
+    "language": "Spanish",
+    "rating": 7.2,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEciuvZyyee-2S3fv-mepZB2zUlXp152rLvqZKSasFQ&s"
+  },
+  {
+    "id": 25,
+    "name": "Parasite",
+    "director": "Bong Joon-ho",
+    "releaseYear": 2019,
+    "language": "Korean",
+    "rating": 8.6,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXJA_ne7-gsXzkUUneE2qtDxo20W99sGPQTLv_hoxMw&s"
+  },
+  {
+    "id": 26,
+    "name": "Roma",
+    "director": "Alfonso Cuarón",
+    "releaseYear": 2018,
+    "language": "Spanish",
+    "rating": 7.7,
+    "imagePath": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@.V1.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Capernaum",
+    "director": "Nadine Labaki",
+    "releaseYear": 2018,
+    "language": "Arabic",
+    "rating": 8.4,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaho70R0XNB5FpmJoD2gl71C37h-Te1xJbE7LELvUxSw&s"
+  },
+  {
+    "id": 28,
+    "name": "Shoplifters",
+    "director": "Peter  Kore-eda",
+    "releaseYear": 2018,
+    "language": "Japanese",
+    "rating": 8,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg5IYROMG4YQ2lE5c7_GI7f1QgYSbivAnVAuiqHf3p-w&s"
+  },
+  {
+    "id": 29,
+    "name": "Portrait of a Lady on Fire",
+    "director": "Peter Sciamma",
+    "releaseYear": 2019,
+    "language": "French",
+    "rating": 8.1,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTiXgHFiSy0c4Pkm4viP1IGDpR7TeLUelTJJjKve5RQ&s"
+  },
+  {
+    "id": 30,
+    "name": "Joker",
+    "director": "Todd Phillips",
+    "releaseYear": 2019,
+    "language": "English",
+    "rating": 8.4,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqcTO_XW9v7daH-g1FtB4FDRWAW3y5NAcEzA0tasu2fA&s"
+  },
+  {
+    "id": 31,
+    "name": "1917",
+    "director": "Peter Mendes",
+    "releaseYear": 2019,
+    "language": "English",
+    "rating": 8.3,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0aq63sVMtG9mQkSVvQUHFzJGj94xbm0jwhl22NAwuow&s"
+  },
+  {
+    "id": 32,
+    "name": "Parasite",
+    "director": "Bong Joon-ho",
+    "releaseYear": 2019,
+    "language": "Korean",
+    "rating": 8.6,
+    "imagePath": "https://i.etsystatic.com/23402008/r/il/0e5769/2499687838/il_570xN.2499687838_7a06.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Minari",
+    "director": "Peter Isaac Chung",
+    "releaseYear": 2020,
+    "language": "Korean",
+    "rating": 7.6,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP5-P8arN-KtlGGEAFHg9jwz4TsDwZjoVL1p-87jeiDg&s"
+  },
+  {
+    "id": 34,
+    "name": "Nomadland",
+    "director": "Peter Zhao",
+    "releaseYear": 2020,
+    "language": "English",
+    "rating": 7.3,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdCyVJZ4KTGTTOepdAyx2FSk_oulO5HikTZBbBm69fw&s"
+  },
+  {
+    "id": 35,
+    "name": "Peter Round",
+    "director": "Thomas Vinterberg",
+    "releaseYear": 2020,
+    "language": "Danish",
+    "rating": 7.8,
+    "imagePath": "https://i.pinimg.com/originals/61/e6/bd/61e6bd2fc7604e60371a88813240af94.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Soul",
+    "director": "Robert Docter, Kemp Powers",
+    "releaseYear": 2020,
+    "language": "English",
+    "rating": 8.1,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDcogdMfIS95a77AWLmADXPDnLSeskz0IaDqFcq7ieA&s"
+  },
+  {
+    "id": 37,
+    "name": "Minamata",
+    "director": "Robert Levitas",
+    "releaseYear": 2021,
+    "language": "English",
+    "rating": 6.8,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmKe7w6tMuK4C3LO8AovyKe_cTbdFl66XxeTn-ZkkfA&s"
+  },
+  {
+    "id": 38,
+    "name": "Dune",
+    "director": "Robert Villeneuve",
+    "releaseYear": 2021,
+    "language": "English",
+    "rating": 8.5,
+    "imagePath": "https://imageio.forbes.com/specials-images/imageserve/61116cea2313e8bae55a536a/-Dune-/0x0.jpg?format=jpg&width=960"
+  },
+  {
+    "id": 39,
+    "name": "Encanto",
+    "director": "Robert Bush, Byron Howard",
+    "releaseYear": 2021,
+    "language": "English",
+    "rating": 7.7,
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp5akNAD2W1Fqn2EkdhxDU1H63AwrjYKldzmk4G2FuIQ&s"
+  },
+  {
+    "id": 40,
+    "name": "A Hero",
+    "director": "Robert Farhadi",
+    "releaseYear": "2021",
+    "language": "Persian",
+    "rating": "4.7",
+    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmtrkO266uDhtYwi9kluCi_zQ4Ilu--a_siDewAvioA&s"
+  }
+]
